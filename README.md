@@ -189,4 +189,5 @@ Contributors
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 * [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) - Minor wording suggestions.
 
+Adding something to it to show updated file on GitHub.
 
